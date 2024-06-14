@@ -1,4 +1,5 @@
 # SMA Praxis AI 
+![WhatsApp Image 2024-06-13 at 16 15 55_66ef251c](https://github.com/syauqibilfaqih/sma-praxis-ai/assets/70939903/6807478d-950f-400d-a6bb-923322a38880)
 
 ## Tentang
 Repository ini merupakan panduan umum bagi para mentor dan siswa untuk menjalankan pembelajaran Artificial Intelligence di SMA Praxis. Secara umum, materi pada pembelajaran ini akan terfokus pada bidang Computer Vision, dan menitikberatkan pada project based learning, dimana siswa akan mendapatkan porsi practical lebih banyak daripada teori, dan pada akhir pembelajaran akan memiliki luaran sebuah prototype dengan mengimplementasikan topik yang telah dipelajari sebelumnya.
