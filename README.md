@@ -100,28 +100,28 @@ Lisensi
 #### Hari 5
 - Membuat OMR Test Grader
 
-### Pekan 3 
+### Pekan 3 | Object Detection
 #### Hari 1
 #### Hari 2
 #### Hari 3
 #### Hari 4
 #### Hari 5
 
-### Pekan 4
+### Pekan 4 | Object Tracking
 #### Hari 1
 #### Hari 2
 #### Hari 3
 #### Hari 4
 #### Hari 5
 
-### Pekan 5
+### Pekan 5 | Face Application
 #### Hari 1
 #### Hari 2
 #### Hari 3
 #### Hari 4
 #### Hari 5
 
-### Pekan 6
+### Pekan 6 | Embedded CV & IoT
 #### Hari 1
 #### Hari 2
 #### Hari 3
