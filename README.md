@@ -46,22 +46,58 @@ Lisensi
 
 ## Kurkiulum
 
-### Pekan 1
+### Pekan 1 Pre-AI
 #### Hari 1
+- Pengenalan Materi
+- Instalasi VSCode, Python, Git
+- Pre-test coding
+- Pre-test flowchart 
+- Git basic
+
 #### Hari 2
+- Syntax
+- Variables
+- Data Types
+- Numbers
+- Casting
+- Strings
+- Booleans
+- Operators
+
 #### Hari 3
+- If Else
+- While Loops
+- For Loops 
+
 #### Hari 4
+- Functions
+- Class
+- Modules
+
 #### Hari 5
+- Membuat Kalkulator Sederhana
+- Materi tambahan jika memungkinkan (List, Tuple, Lambda, OOP Principles, dll)
 
-
-### Pekan 2
+### Pekan 2 | OpenCV
 #### Hari 1
+- Install Open CV
+- Mempelajari command line & argparse
 #### Hari 2
+- Mempelajari fungsi-fungsi dasar OpenCV (load image, resize, rotate, thresholding, dll)
 #### Hari 3
-#### Hari 4
-#### Hari 5
+- Color Detection
+- Center of Contour
+- Extreme Point of Contour
+- Shape detection
+- Determine Object Color
 
-### Pekan 3
+#### Hari 4
+- Membuat Document Scanner
+
+#### Hari 5
+- Membuat OMR Test Grader
+
+### Pekan 3 
 #### Hari 1
 #### Hari 2
 #### Hari 3
