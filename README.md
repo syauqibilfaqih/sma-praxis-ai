@@ -56,7 +56,6 @@ Lisensi
 - Pre-test coding
 - Pre-test flowchart 
 - Git basic
-
 #### Hari 2
 - Syntax
 - Variables
@@ -66,18 +65,15 @@ Lisensi
 - Strings
 - Booleans
 - Operators
-
 #### Hari 3
 - If Else
 - While Loops
 - For Loops 
-
 #### Hari 4
 - Arrays (List, Tuple, etc)
 - Functions
 - Class
 - Modules
-
 #### Hari 5
 - Membuat Kalkulator Sederhana
 
@@ -93,82 +89,34 @@ Lisensi
 - Extreme Point of Contour
 - Shape detection
 - Determine Object Color
-
 #### Hari 4
 - Membuat Document Scanner
-
 #### Hari 5
 - Membuat OMR Test Grader
 
-### Pekan 3 | Object Detection
+### Pekan 3 | Object Detection & Tracking
 #### Hari 1
+- Ball Tracking
 #### Hari 2
+- Cat Detection 
 #### Hari 3
+- Haar Cascade (Pengenalan dan Training Model)
 #### Hari 4
+- YOLO (Pengenalan dan Pembuatan Custom Weight)
 #### Hari 5
+- Mini Project: VAR Soccer
 
-### Pekan 4 | Object Tracking
+### Pekan 4 | Face Application
 #### Hari 1
+- DLIB face_recognition installation
 #### Hari 2
+- Deep Learning Face Recognition
 #### Hari 3
+- Discover Facial Landmark
 #### Hari 4
+- Improve Face Recognition Accuracy
 #### Hari 5
-
-### Pekan 5 | Face Application
-#### Hari 1
-#### Hari 2
-#### Hari 3
-#### Hari 4
-#### Hari 5
-
-### Pekan 6 | Embedded CV & IoT
-#### Hari 1
-#### Hari 2
-#### Hari 3
-#### Hari 4
-#### Hari 5
-
-### Pekan 7
-#### Hari 1
-#### Hari 2
-#### Hari 3
-#### Hari 4
-#### Hari 5
-
-### Pekan 8
-#### Hari 1
-#### Hari 2
-#### Hari 3
-#### Hari 4
-#### Hari 5
-
-### Pekan 9
-#### Hari 1
-#### Hari 2
-#### Hari 3
-#### Hari 4
-#### Hari 5
-
-### Pekan 10
-#### Hari 1
-#### Hari 2
-#### Hari 3
-#### Hari 4
-#### Hari 5
-
-### Pekan 11
-#### Hari 1
-#### Hari 2
-#### Hari 3
-#### Hari 4
-#### Hari 5
-
-### Pekan 12
-#### Hari 1
-#### Hari 2
-#### Hari 3
-#### Hari 4
-#### Hari 5
+- Mini Project: Face and Expression Detector
 
 ## Resources
 PyImageSearch. (n.d.). Computer Vision, Deep Learning, and OpenCV. Retrieved from PyImageSearch
