@@ -45,18 +45,91 @@ Penjelasan tentang isi repo
 Lisensi
 
 ## Kurkiulum
+
 ### Pekan 1
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
+
 ### Pekan 2
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 3
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 4
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 5
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 6
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 7
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 8
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 9
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 10
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 11
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
+
 ### Pekan 12
+#### Hari 1
+#### Hari 2
+#### Hari 3
+#### Hari 4
+#### Hari 5
 
 ## Resources
 PyImageSearch. (n.d.). Computer Vision, Deep Learning, and OpenCV. Retrieved from PyImageSearch
