@@ -49,7 +49,7 @@ Lisensi
 
 ## Kurkiulum
 
-### Pekan 1 | Pre-AI
+### [Pekan 1 | Pre-AI](https://github.com/syauqibilfaqih/sma-praxis-ai/blob/main/details/01.md)
 #### Hari 1
 - Pengenalan Materi
 - Instalasi VSCode, Python, Git
@@ -77,7 +77,7 @@ Lisensi
 #### Hari 5
 - Membuat Kalkulator Sederhana
 
-### Pekan 2 | OpenCV
+### [Pekan 2 | OpenCV](https://github.com/syauqibilfaqih/sma-praxis-ai/blob/main/details/02.md)
 #### Hari 1
 - Install Open CV
 - Mempelajari command line & argparse
@@ -94,7 +94,7 @@ Lisensi
 #### Hari 5
 - Membuat OMR Test Grader
 
-### Pekan 3 | Object Detection & Tracking
+### [Pekan 3 | Object Detection & Tracking](https://github.com/syauqibilfaqih/sma-praxis-ai/blob/main/details/03.md)
 #### Hari 1
 - Ball Tracking
 #### Hari 2
@@ -106,7 +106,7 @@ Lisensi
 #### Hari 5
 - Mini Project: VAR Soccer
 
-### Pekan 4 | Face Application
+### [Pekan 4 | Face Application](https://github.com/syauqibilfaqih/sma-praxis-ai/blob/main/details/04.md)
 #### Hari 1
 - DLIB face_recognition installation
 #### Hari 2
