@@ -73,13 +73,13 @@ Lisensi
 - For Loops 
 
 #### Hari 4
+- Arrays (List, Tuple, etc)
 - Functions
 - Class
 - Modules
 
 #### Hari 5
 - Membuat Kalkulator Sederhana
-- Materi tambahan jika memungkinkan (List, Tuple, Lambda, OOP Principles, dll)
 
 ### Pekan 2 | OpenCV
 #### Hari 1
