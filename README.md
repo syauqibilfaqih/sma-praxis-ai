@@ -46,7 +46,7 @@ Lisensi
 
 ## Kurkiulum
 
-### Pekan 1 Pre-AI
+### Pekan 1 | Pre-AI
 #### Hari 1
 - Pengenalan Materi
 - Instalasi VSCode, Python, Git
