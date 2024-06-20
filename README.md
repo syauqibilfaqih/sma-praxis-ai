@@ -112,11 +112,14 @@ Lisensi
 #### Hari 2
 - Discover Facial Landmark
 #### Hari 3
-- Improve Face Recognition Accuracy
-#### Hari 4
+- Eye-blink Detection
+#### Hari 4 - 5
 - Mini Project: Face and Expression Detector
-#### Hari 5
-- Mini Project: Face and Expression Detector
+
+### [Pekan 5-12 | Proyek Akhir]()
+
+## Penilaian
+Penilaian dilakukan di akhir pembelajaran dengan mengamati kontribusi siswa pada masing-masing repository pribadi, repository kolektif, dan dengan melakukan ujian oral untuk menilai kefahaman masing-masing siswa.
 
 ## Resources
 PyImageSearch. (n.d.). Computer Vision, Deep Learning, and OpenCV. Retrieved from PyImageSearch
