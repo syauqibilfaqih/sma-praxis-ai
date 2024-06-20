@@ -116,7 +116,7 @@ Lisensi
 #### Hari 4 - 5
 - Mini Project: Face and Expression Detector
 
-### [Pekan 5-12 | Proyek Akhir]()
+### [Pekan 5-12 | Proyek Akhir](https://github.com/syauqibilfaqih/sma-praxis-ai/blob/main/details/05.md)
 
 ## Penilaian
 Penilaian dilakukan di akhir pembelajaran dengan mengamati kontribusi siswa pada masing-masing repository pribadi, repository kolektif, dan dengan melakukan ujian oral untuk menilai kefahaman masing-masing siswa.
