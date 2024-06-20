@@ -108,13 +108,13 @@ Lisensi
 
 ### [Pekan 4 | Face Application](https://github.com/syauqibilfaqih/sma-praxis-ai/blob/main/details/04.md)
 #### Hari 1
-- DLIB face_recognition installation
-#### Hari 2
 - Deep Learning Face Recognition
-#### Hari 3
+#### Hari 2
 - Discover Facial Landmark
-#### Hari 4
+#### Hari 3
 - Improve Face Recognition Accuracy
+#### Hari 4
+- Mini Project: Face and Expression Detector
 #### Hari 5
 - Mini Project: Face and Expression Detector
 
