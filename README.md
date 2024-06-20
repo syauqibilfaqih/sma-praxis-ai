@@ -98,9 +98,9 @@ Lisensi
 #### Hari 1
 - Ball Tracking
 #### Hari 2
-- Cat Detection 
+- Cat Detection | Haar Cascade (Pengenalan dan Training Model)
 #### Hari 3
-- Haar Cascade (Pengenalan dan Training Model)
+- Pedestrian Detection | Histogram of Oriented Gradient
 #### Hari 4
 - YOLO (Pengenalan dan Pembuatan Custom Weight)
 #### Hari 5
