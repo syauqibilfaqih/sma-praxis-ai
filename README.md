@@ -22,7 +22,7 @@ Setiap hari, akan dilakukan pemberian materi serta latihan intensif dengan aloka
 Setiap siswa mempersiapkan satu repository github untuk menyimpan progress pembelajaran setiap harinya. Adapun formatnya adalah sebagai berikut:
 
 ``` 
-Pekan-Hari-Topik(tanpa spasi, CamelCase) 
+Pekan-Hari-Topik(tanpa spasi, PascalCase) 
 ```
 
 Contoh, untuk materi pekan pertama, hari kedua, topik Object Detection:
